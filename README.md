@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Leonardo Furtado]
+# Hi there! 👋 I'm Leonardo Furtado
 
 ## Network Development Engineer | Solutions Architect | Instructor | Speaker
 
