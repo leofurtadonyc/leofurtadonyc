@@ -6,21 +6,22 @@ With 30 years of experience in designing, deploying, and optimizing complex netw
 
 ### 💡 Areas of Expertise
 
-- **Service Provider & Data Center Networks** 🏢🌍
+- **Service Provider & Data Center Networking** 🏢 🌍
+- Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks 🫙
 - Carrier-Grade & Large-Scale Network Architectures 📡
-- Routing & Switching (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN etc.)
-- Software-Defined Networking, Network Automation and Orchestration 🤖
+- R&S, SP, and DC Tech Stack (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN etc.)
+- Software-Defined Networking (SDN), Network Automation and Orchestration 🤖
+- Cloud Networking & Automation ☁️ (Python, AWS, Terraform, Ansible)
 - Network Security & Infrastructure Resilience 🔐
-- Cloud Networking & Automation ☁️ (AWS, Terraform, Ansible, Python)
-- High-Performance Financial & Trading Networks 💰📈
-- Industrial Networking & Wireless Solutions 🏭📡
-- Teaching, Training & Public Speaking 🎤📚
+- High-Performance Financial & Trading Networks 💰 📈
+- Industrial Networking & Wireless Solutions 🏭 📡
+- Teaching, Training & Public Speaking 🎤 📚
 
 ### 🏆 Professional Journey
 
-I’ve had the privilege of working with industry leaders such as **Amazon Web Services (AWS), Cisco, New York Stock Exchange (NYSE/Euronext),** and major financial institutions, alongside telecommunications operators and integration partners of **Cisco & Juniper**.
+I’ve worked for industry leaders such as **Amazon Web Services (AWS), Cisco, New York Stock Exchange (NYSE/Euronext),** and major financial institutions, alongside telecommunications operators and integration partners of **Cisco & Juniper**.
 
-Currently, I’m based in **Ireland** 🇮🇪, serving as a **Senior Network Development Engineer**, where I continue to design and optimize networks that drive mission-critical applications.
+I’m currently based in **Ireland** 🇮🇪, serving as a **Senior Network Development Engineer**, where I continue designing and optimizing networks that drive mission-critical business outcomes.
 
 ### 🎓 Instructor & Speaker
 
