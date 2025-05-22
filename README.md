@@ -2,13 +2,13 @@
 
 ## Network Development Engineer | Solutions Architect | Instructor | Speaker
 
-With 30 years of experience in designing, deploying, and optimizing complex network infrastructures, I specialize in delivering high-impact solutions across multiple industries, including telecommunications, data centers, finance, oil & gas, manufacturing, transportation, and retail. My passion lies in architecting scalable, secure, and highly available networks that power critical business operations.
+With 30 years of experience designing, deploying, and optimizing complex network infrastructures, I specialize in delivering high-impact solutions across multiple industries. My passion lies in architecting scalable, secure, and highly available networks that power critical business operations.
 
 ### 💡 Areas of Expertise
 
 - **Service Provider & Data Center Networking** 🏢 🌍
 - Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks 🫙
-- Carrier-Grade & Large-Scale Network Architectures 📡
+- Carrier-Grade & Hyperscale Networking Architectures 📡
 - R&S, SP, and DC Tech Stack (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN etc.)
 - Software-Defined Networking (SDN), Network Automation and Orchestration 🤖
 - Cloud Networking & Automation ☁️ (Python, AWS, Terraform, Ansible)
