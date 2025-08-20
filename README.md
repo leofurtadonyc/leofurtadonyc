@@ -6,16 +6,16 @@ With 30 years of experience designing, deploying, and optimizing complex network
 
 ### 💡 Areas of Expertise
 
-- **Service Provider & Data Center Networking** 🏢 🌍
-- Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks 🫙
-- Carrier-Grade & Hyperscale Networking Architectures 📡
-- R&S, SP, and DC Tech Stack (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN etc.)
-- Software-Defined Networking (SDN), Network Automation and Orchestration 🤖
+- **Service Provider & Data Center Networking**
+- Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks
+- Carrier-Grade & Hyperscale Networking Architectures
+- R&S, SP, and DC Tech Stack (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN, etc.)
+- Software-Defined Networking (SDN), Network Automation and Orchestration
 - Cloud Networking & Automation ☁️ (Python, AWS, Terraform, Ansible)
-- Network Security & Infrastructure Resilience 🔐
-- High-Performance Financial & Trading Networks 💰 📈
-- Industrial Networking & Wireless Solutions 🏭 📡
-- Teaching, Training & Public Speaking 🎤 📚
+- Network Security & Infrastructure Resilience
+- High-Performance Financial & Trading Networks
+- Industrial Networking & Wireless Solutions
+- Teaching, Training & Public Speaking
 
 ### 🏆 Professional Journey
 
@@ -33,8 +33,9 @@ Through my online course business, I help network engineers master cutting-edge 
 
 I’m always open to discussing cutting-edge networking technologies, collaborating on new projects, or sharing knowledge with the community. Feel free to connect with me!
 
-💼 https://www.linkedin.com/in/leofurtadonyc/
-
+💼 [LinkedIn](https://www.linkedin.com/in/leofurtadonyc/)
+🌐 [Newsletter](https://www.theroutingintent.com/)
+🌐 [Next Hop Ireland community-driven education](https://nexthopireland.com/)
 🌐 [My courses](https://ead.leonardofurtado.academy/)
 
 <!---
