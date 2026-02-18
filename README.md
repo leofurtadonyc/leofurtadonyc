@@ -2,13 +2,13 @@
 
 ## Network Development Engineer | Solutions Architect | Instructor | Speaker
 
-With over 30 years of experience designing, deploying, and optimizing complex network infrastructures, I specialize in delivering high-impact solutions across diverse industries. My passion is architecting scalable, secure, and highly available networks that support mission-critical business operations.
+With over 30 years of experience designing, deploying, and optimizing complex network infrastructures, I specialize in delivering high-impact solutions across a wide range of industries. I am passionate about architecting scalable, secure, and highly available networks that support mission-critical business operations.
 
 ### 💡 Areas of Expertise
 
-- **Service Provider & Data Center Networking**
+- **Hyperscaler, Service Provider & Data Center Networking**
 - Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks
-- Carrier-Grade & Hyperscale Networking Architectures
+- Carrier-Grade, Disaggregation & Hyperscale Networking Architectures
 - R&S, SP, and DC Tech Stack (MP-BGP, MPLS, Segment Routing, SRv6, EVPN, VXLAN, etc.)
 - Software-Defined Networking (SDN), Network Automation and Orchestration
 - Cloud Networking & Automation ☁️ (Python, AWS, Terraform, Ansible)
@@ -21,7 +21,7 @@ With over 30 years of experience designing, deploying, and optimizing complex ne
 
 I’ve worked for industry leaders such as **Amazon Web Services (AWS), Cisco, New York Stock Exchange (NYSE/Euronext),** and major financial institutions, alongside telecommunications operators, service providers, and integration partners of **Cisco & Juniper**.
 
-I’ve been based in **Ireland** 🇮🇪 for the past four years and currently serve as a **Principal Network Developer** at Oracle Cloud Infrastructure (OCI), where I design, build, and optimize large-scale networks that support mission-critical business outcomes.
+I’ve been based in **Ireland** 🇮🇪 for the past four years and currently serve as a **Principal Network Developer** at Oracle Cloud Infrastructure (OCI), where I build and scale massive networks that support mission-critical business outcomes.
 
 ### 🎓 Instructor & Speaker
 
