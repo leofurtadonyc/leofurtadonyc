@@ -17,19 +17,19 @@ With over 30 years of experience designing, deploying, and optimizing complex ne
 - Industrial Networking & Wireless Solutions
 - Teaching, Training & Public Speaking
 
-### 🏆 Professional Journey
+### Professional Journey
 
 I’ve worked for industry leaders such as **Amazon Web Services (AWS), Cisco, New York Stock Exchange (NYSE/Euronext),** and major financial institutions, alongside telecommunications operators, service providers, and integration partners of **Cisco & Juniper**.
 
 I’ve been based in **Ireland** 🇮🇪 for the past four years and currently serve as a **Principal Network Developer** at Oracle Cloud Infrastructure (OCI), where I build and scale massive networks that support mission-critical business outcomes.
 
-### 🎓 Instructor & Speaker
+### Instructor & Speaker
 
 Beyond engineering, I am deeply committed to **education** and **knowledge sharing**. I have spent countless hours as an instructor, mentor, and speaker, leading training sessions and presenting at industry events to empower IT professionals worldwide.
 
 Through my online course business, I help network engineers master cutting-edge technologies and stay ahead in their careers by providing comprehensive training on advanced networking concepts, protocols, services, and best practices.
 
-### 🚀 Let's Connect!
+### Let's Connect!
 
 I’m always open to discussing cutting-edge networking technologies, collaborating on new projects, and sharing knowledge with the community. Feel free to connect with me!
 
