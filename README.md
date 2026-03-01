@@ -4,7 +4,7 @@
 
 With over 30 years of experience designing, deploying, and optimizing complex network infrastructures, I specialize in delivering high-impact solutions across a wide range of industries. I am passionate about architecting scalable, secure, and highly available networks that support mission-critical business operations.
 
-### 💡 Areas of Expertise
+### Areas of Expertise
 
 - **Hyperscaler, Service Provider & Data Center Networking**
 - Engineering, Availability, and Scaling of AI, Machine Learning, and Cloud Data Center Networks
